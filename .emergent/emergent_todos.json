@@ -1,0 +1,46 @@
+[
+  {
+    "content": "Fase 0: Pulihkan lingkungan dari repo GitHub (env, deps, seed, gates baseline 29 PASS)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 1: POC isolasi poc/poc_46.py — papan unit math + tie-out + honest null + readiness (DP/izin) + permit scope chain",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2 Backend: reference_p46, models_p46, build_unit_board, build_readiness, endpoints board/readiness/start",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2 Backend: permits bertingkat (scope/expiry/requirement_code) + coverage + migrasi + sweeper + seed_phase46 + default setting OFF",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2 Frontend: /build jadi 6 tab tanpa kehilangan fitur + UnitBoardTab (tabel papan unit lengkap)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2 Frontend: Unit 360 tab Pembangunan lengkap (kurva-S, langkah+aksi, QC/inspeksi/punch, kartu kesiapan + Mulai Bangun)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2 Frontend: panel perizinan bertingkat di Unit 360 & /projects/:id + PermitsPage health/scope + testIds baru",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2: Perbaiki regresi gate akibat refactor (verify_34, verify_37, audit_endpoint_sweep) — 3/3 PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 3: gate scripts/verify_build_hub.py (gate ke-30) + mutasi_46.py + run_all_gates PASS",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 3: End-to-End testing via testing_agent_v3 (termasuk US15/US16 sisa Fase 45) + fix semua temuan",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 3: Update docs (v2/29, 40_PETA_NAV, CODEBASE_MAP, plan.md, test_result.md, test_credentials.md)",
+    "status": "pending"
+  }
+]
